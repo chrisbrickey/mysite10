@@ -534,6 +534,8 @@ section h3.section-subheading {
     padding: 0 100px 20px 20px;
   }
 }
+
+/*team-member class required updates after combining profile and contact section AND removing contact form*/
 .team-member {
   text-align: center;
   margin-bottom: 50px;
@@ -549,10 +551,16 @@ section h3.section-subheading {
   margin-bottom: 0;
   text-transform: none;
 }
+
 .team-member p {
   /*added color, delete below row to return to default*/
-  color: #e6e6e6;
-  margin-top: 0;
+  color: #ffffff;
+  /*added font-size, delete below row to return to default*/
+  font-size: 120%;
+  /*increased margin-top from 0 to 10px*/
+  margin-top: 10px;
+  /*added margin-bottom below*/
+  margin-bottom: 10px;
 }
 aside.clients img {
   margin: 50px auto;
