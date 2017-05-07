@@ -42,7 +42,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #ff8d05;
+  color: #FF9653;
   /*color: #fec503;*/
 }
 h1,
@@ -97,7 +97,7 @@ h7 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #ff8d05;
+  background-color: #FF9653;
   /*background-color: #fec503;*/
   border-color: #f7911c;
   border-color: #f6bf01;
@@ -151,7 +151,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: white;
-  background-color: #ff8d05;
+  background-color: #FF9653;
   /*background-color: #fec503;*/
   border-color: #f7911c;
   /*border-color: #f6bf01;*/
@@ -215,7 +215,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .navbar-brand:active,
 .navbar-custom .navbar-brand.active {
-  color: #ff8d05;
+  color: #FF9653;
   /*color: #fec503;*/
 }
 .navbar-custom .navbar-collapse {
@@ -258,7 +258,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: #ff8d05;
+  background-color: #FF9653;
   /*background-color: #fec503;*/
 }
 @media (min-width: 768px) {
@@ -292,8 +292,8 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/stars-in-the-night-sky.jpg');
-  /*background-image: url('../img/nasa-63032.jpg');*/
+  /*background-image: url('../img/stars-in-the-night-sky.jpg');*/
+  background-image: url('../img/nasa-63032.jpg');
   /*background-image: url('../img/pexels-photo-24027.jpg');*/
   /*background-image: url('../img/stars_landscape.jpg');*/
   background-repeat: no-repeat;
@@ -318,9 +318,9 @@ header .intro-text .intro-lead-in {
   margin-bottom: 10px;
 }
 header .intro-text .intro-heading {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 900;
   font-size: 40px;
   line-height: 50px;
   margin-bottom: 25px;
@@ -338,10 +338,11 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
   }
   header .intro-text .intro-heading {
-    font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Josefin Sans", "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 75px;
+    font-size: 90px;
+    /*font-size: 75px;*/
     line-height: 75px;
     margin-bottom: 50px;
   }
