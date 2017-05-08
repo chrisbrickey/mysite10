@@ -292,8 +292,8 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  /*background-image: url('../img/stars-in-the-night-sky.jpg');*/
-  background-image: url('../img/nasa-63032.jpg');
+  background-image: url('../img/stars-in-the-night-sky.jpg');
+  /*background-image: url('../img/nasa-63032.jpg');*/
   /*background-image: url('../img/pexels-photo-24027.jpg');*/
   /*background-image: url('../img/stars_landscape.jpg');*/
   background-repeat: no-repeat;
