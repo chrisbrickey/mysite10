@@ -492,7 +492,10 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #FF9653;
+    /*below is color for circles in About section, I override the last one to orange within the HTML tag */
+  background-color: #A9A9A9;
+
+  /*background-color: #FF9653;*/
   /*background-color: #fed136;*/
   color: white;
   border-radius: 100%;
